@@ -41,6 +41,15 @@ function Projects() {
               demoLink="https://hemantgupta4.github.io/hemanrgupta.github.io/"
             />
           </Col>
+                          
+          <Col md={4} className="project-card">
+            <ProjectCard
+
+              title="AutoGenAutomotive"
+              description="Developed AutoGenAutomotive, an AI-driven customer support platform for car damage. Users upload images and enter email and issue details. AI analyzes images, checks spare part availability from MySQL database, and sends detailed repair cost and availability via email using Flask and SMTP. Powered by OpenAI API."
+              ghLink="https://github.com/hemantgupta4/-AutoGenAutomotive"
+            />
+          </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
