@@ -1,14 +1,12 @@
+<h2 align="center">
+  Portfolio Website - v2.0<br/>
+</h2>
 
 <div align="center">
   <img alt="Demo" src="./Images/readme-img.png" />
 </div>
 
 <br/>
-
-
-## TL;DR
-
-You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [hemantgupta4](https://github.com/hemantgupta4). Thanks!
 
 
 This project was built using these technologies.
