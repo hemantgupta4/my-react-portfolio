@@ -40,14 +40,14 @@ function Home2() {
                   {" "}
                   experimenting with cutting-edge technologies,
                 </b>
-              </i>
-              &nbsp; including
-              <i>
-                <b className="purple"> modern JavaScript libraries and frameworks ,</b>
-              </i>
+              </i>             
               &nbsp; as well as delving into the fascinating realm of
               <i>
                 <b className="purple"> Data Science.</b>
+              </i>
+              &nbsp; Recently, I've been working with
+              <i>
+                <b className="purple"> Go-lang</b>
               </i>
             </p>
             
