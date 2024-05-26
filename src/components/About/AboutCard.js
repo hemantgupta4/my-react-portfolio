@@ -11,10 +11,9 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Hemant Gupta </span>
             from <span className="purple"> PrayagRaj, India.</span>
             <br />
-            I am looking for intellectually stimulating challenges in the ever-changing field of technology.
             <br />
-            Committed to exploring new tech stacks to enhance and apply my skills effectively.
-            <br />
+            Goal-oriented Software Engineer with a passion for crafting exceptional digital solutions. I thrive in dynamic environments, pushing my abilities to achieve excellence. I adapt quickly and turn complex problems into seamless, elegant solutions. Ready to tackle the next big challenge and make a significant impact!            <br />
+            
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
